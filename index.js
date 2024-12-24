@@ -18,8 +18,8 @@
 // let number = prompt("enter your number");
 // console.log(Math.floor(number));
 
-let text = prompt("enter your number");
-console.log(parseFloat(text));
+// let text = prompt("enter your number");
+// console.log(parseFloat(text));
 
 // let num1 = prompt("enter your number");
 // console.log(parseInt(num1));
