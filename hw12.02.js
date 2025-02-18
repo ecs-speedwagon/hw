@@ -27,9 +27,9 @@
 //  const result = applyCallbackToEachElement(arr, squareCallback);
 //  console.log(result); // [1, 4, 9, 16, 25]
 
-const calculateDiscountedPrice=(price, discount, callback) =>{
-price = price - (price * (discount/100));
-callback(price);
-}
-const showDiscountedPrice =(price)=>console.log(price) ;
-calculateDiscountedPrice(100,10, showDiscountedPrice);//discounted price: 90
+// const calculateDiscountedPrice=(price, discount, callback) =>{
+// price = price - (price * (discount/100));
+// callback(price);
+// }
+// const showDiscountedPrice =(price)=>console.log(price) ;
+// calculateDiscountedPrice(100,10, showDiscountedPrice);//discounted price: 90
